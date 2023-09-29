@@ -42,16 +42,15 @@
             android:id="@+id/btn1"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Intent 1"
             android:layout_gravity="center"
             android:layout_marginTop="5dp"
-            />
+            android:text="Abrir navegador a una uri" />
 
         <Button
             android:id="@+id/btn2"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Intent 2"
+            android:text="Abrir mapa"
             android:layout_gravity="center"
             android:layout_marginTop="5dp"
             />
