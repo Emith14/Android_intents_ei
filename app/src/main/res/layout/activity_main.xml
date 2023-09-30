@@ -100,7 +100,7 @@
                 android:id="@+id/btn6"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="abririr inicio"
+                android:text="@string/abririr_inicio"
                 android:layout_gravity="center"
                 android:layout_marginTop="5dp"
                 />
