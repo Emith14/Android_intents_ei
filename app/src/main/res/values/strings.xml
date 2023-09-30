@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">intents_ei</string>
+    <string name="abrir_camara">Abrir camara</string>
+    <string name="abrir_mapa">Abrir mapa</string>
+    <string name="abrir_navegador_a_una_uri">Abrir navegador a una uri</string>
+    <string name="implicitos">Implicitos</string>
+    <string name="explicitos">Explicitos</string>
+    <string name="mostrar_contactos">Mostrar contactos</string>
+    <string name="activity_abierto_con_boton_explicito">Activity abierto con boton explicito</string>
+    <string name="llamar_a_numero">Llamar a numero</string>
+    <string name="enviar_correo">Enviar correo</string>
+    <string name="abrir_configuracion">Abrir configuracion</string>
+    <string name="abrir_otro_activity">Abrir otro activity</string>
+    <string name="mi_app">Mi app</string>
+    <string name="abririnicio" />
 </resources>
