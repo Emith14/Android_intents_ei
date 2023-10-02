@@ -87,6 +87,7 @@
                 android:layout_marginTop="50dp"
                 android:textSize="40sp"/>
 
+
             <Button
                 android:id="@+id/btn5"
                 android:layout_width="match_parent"
@@ -95,6 +96,7 @@
                 android:layout_gravity="center"
                 android:layout_marginTop="5dp"
                 />
+
 
             <Button
                 android:id="@+id/btn6"

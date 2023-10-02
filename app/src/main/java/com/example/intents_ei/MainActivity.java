@@ -11,6 +11,7 @@ public class MainActivity extends AppCompatActivity {
 
  Button b1,b2,b3,b4,b5,b6,b7,b8;
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -44,8 +45,6 @@ public class MainActivity extends AppCompatActivity {
         b7.setOnClickListener(v -> envCorreo());
 
         b8.setOnClickListener(v -> llamar());
-
-
 
 
 
